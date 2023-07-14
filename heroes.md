@@ -4,5 +4,6 @@
 - IronMan
 - Thor
 - Linterna Verde
+- Flash
 - Robin
 - Volcán Negro
